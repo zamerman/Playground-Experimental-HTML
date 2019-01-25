@@ -6,5 +6,3 @@ On top of that, this is my first official repository! So by trying this out I ca
 As far as I know, there is Apache and Nginx as the two main places to obtain the software to host a website (unless there is a simple way to make our own way, because I am certainly no coder). In addition, it would be cool if I also learned CSS, since that is more sophisticated and mainstream than HTML.
 
 If you have any ideas that could spice up this HTML, feel free to fork this up and let your creativity flow! Afterwards, you can make a pull request and I'll see if your suggestion would add some spice to this and make things interesting. Hopefully we all can grow in knowledge with this little project.
-
-Also, expect a liscence to be coming soon (so that this won't be "spoiled"). I am still undecided on which one would work best for this little project, though.
